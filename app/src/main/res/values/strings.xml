@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name" translatable="false">Aplikasi Sell Phone</string>
+
+
+    <string name="this_activity" translatable="false">Ini adalah menu activity</string>
+    <string name="this_fragment" translatable="false">Ini adalah menu fragment</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="menu_1" translatable="false">Menu 1</string>
+    <string name="menu_2" translatable="false">Menu 2</string>
+
+    <string name="search_hint" translatable="false">Tulis ...</string>
+    <string name="Handphone_name" translatable="false">Nama Handphone</string>
+    <string name="description" translatable="false">Deskripsi</string>
+    <string-array name="data_name">
+        <item>HP Xiomi Redmi Note 7</item>
+        <item>HP Xiomi Redmi Note 8</item>
+        <item>HP Samsung Galaxy A20S </item>
+        <item>HP Xiomi Poco Pocophone F1</item>
+        <item>HP Xiomi Poco X3</item>
+        <item>HP Xiomi 6A</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Harga RP.1.450.000,-
+            Ukuran layar: 6,3 inci, 19.5:9 ratio, terlindungi Corning Gorilla Glass 5
+Resolusi layar: IPS LCD 2340 x 1080 pixels (~409 ppi density)
+Chipset: Qualcomm SDM660 Snapdragon 660 (14 nm)
+CPU: Octa-core (4x2.2 GHz Kryo 260 dan 4x1.8 GHz Kryo 260)
+GPU: Adreno 512
+OS: Android 9.0 (Pie); MIUI 10
+RAM: 3GB/4GB/6GB
+Memori internal: 32GB/64 GB/128 GB
+Memori eksternal: microSD, up to 256 GB
+Ukuran HP: 159.2 x 75.2 x 8.1 mm
+Berat HP: 186 gram
+Kamera belakang: 48 MP, f/1.8, (wide), 1/2", 0.8µm, PDAF dan 5 MP, f/2.2, depth sensor
+Kamera depan: 13 MP, f/2.0, 1.12µm
+Kapasitas baterai: 4000 mAh, non-removable, Quick Charge 4
+WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+Bluetooth: 5.0, A2DP, LE
+USB: USB Type-C 2.0
+Varian warna: Nebula Red, Space Black, dan Neptune Blue
+Tanggal rilis: Januari 2019 </item>
+        <item>
+            Harga Rp.1.850.000,-
+            Ukuran layar: IPS LCD, 6,3 inci, 2340 x 1080 pixels dengan Corning Gorilla Glass 5
+Ukuran HP: 158.3 x 75.3 x 8.4 mm
+Berat HP: 190 gram
+Chipset: Snapdragon 665
+CPU: Octa-core (4x2.0 GHz Kryo 260 Gold dan 4x1.8 GHz Kryo 260 Silver)
+GPU: Adreno 610
+Sistem operasi: Android 9.0 Pie
+RAM: 3GB/4GB/6GB
+Memori internal: 32 GB/64 GB/128 GB
+Kamera depan: Single camera, 13 MP
+Kamera belakang: Quad camera, 48 MP ( f/1.8, 26mm wide, 1/2.0", 0.8µm, PDAF) + 8 MP (f/2.2, 120˚ ultrawide, 1/4.0", 1.12µm) + 2 MP (f/2.4, macro) + 2 MP (f/2.4, depth)
+Video kamera depan: 1080p@30fps
+Video kamera belakang: 4K@30fps, 1080p@30/60/120fps; gyro-EIS
+Kapasitas baterai: Li-Po 4000 mAh non-removable, Fast charging 18W
+SIM: Dual SIM (Nano-SIM, dual stand-by)
+WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+USB: USB Type-C 2.0, USB On-The-Go
+Sensor: Sidik jari, accelerometer, gyro, proximity, compass
+Rilis: Oktober 2019
+ </item>
+        <item>
+            Harga Rp.1.300.000,-
+            Layar: IPS LCD, 6,5 inci
+Resolusi layar: 720 x 1560 pixels, 19.5:9 ratio (~264 ppi density)
+Chipset: Qualcomm SDM450 Snapdragon 450 (14 nm)
+OS: Android 9.0 (Pie); One UI
+CPU: Octa-core 1.8 GHz Cortex-A53
+GPU: Adreno 506
+RAM: 3GB/4GB
+Memori internal: 32GB/64GB
+Memori eksternal: microSDXC
+Kamera belakang: Triple camera 13 MP, f/1.8, 27mm (wide), 8 MP, f/2.2, 13mm (ultrawide), 1/4.0", 1.12µm, 5 MP, f/2.2, (depth)
+Kamera depan: 8 MP, f/2.0
+Video: 1080p@30fps
+Ukuran HP: 163.3 x 77.5 x 8 mm
+Berat HP: 183 gram
+SIM card: Dual SIM (Nano-SIM, dual stand-by)
+WLAN: Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot
+Bluetooth: 4.2, A2DP, LE
+USB: USB Type-C 2.0
+Kapasitas baterai: Non-removable Li-Po 4.000 mAh (fast charging)
+Earphone: 3,5 mm audio jack
+Sensor: Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass
+Varian warna: Black, Blue, Red, Green
+Tanggal rilis: September 2019</item>
+        <item>
+            Harga Rp.1.750.000,-
+            Ukuran layar: 6.18 inci, IPS LCD 1080 x 2246 pixels ; 18.7:9 ratio ~82.2% screen-to-body ratio; 403 ppi; Corning Gorilla Glass
+Chipset: Qualcomm SDM845 Snapdragon 845 (10 nm)
+CPU: Octa-core (4x2.8 GHz Kryo 385 Gold dan 4x1.8 GHz Kryo 385 Silver)
+Sistem operasi: Android 8.1 (Oreo) upgradable to Android 10, MIUI 12
+GPU: Adreno 630
+RAM: 6 GB
+Memori internal (ROM): 64GB/128GB
+Dimensi: 155.5 x 75.3 x 8.8 mm
+Berat: 182 gram
+Kamera depan: 20 MP, f/2.0, (wide); HDR; Video: 1080p@30fps
+Kamera belakang: Dual Camera; 12 MP, f/1.9, dual pixel PDAF; 5 MP, f/2.0, (depth); Dual-LED Flash, HDR, Panorama
+Video: 4K@30/60fps, 1080p@30fps (gyro-EIS), 1080p@240fps, 720p@960fps
+Baterai: Li-Po 4000 mAh; Fast charging 18W; Quick Charge 3.0
+SIM: Hybrid Dual SIM; Nano-SIM
+WLAN: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot
+Bluetooth: 5.0, A2DP, LE, aptX HD
+GPS: A-GPS, GLONASS, BDS
+USB: USB Type-C 2.0; USB On-The-Go
+Sensor: Infrared Face ID, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass
+Rilis: Agustus 2018</item>
+        <item>
+            Harga Rp.3.250.000,-
+            Ukuran layar: 6.67 inci FHD+ DotDisplay IPS LCD, 1080 x 2400 piksel, 395 ppi, 450 nits (typ), refresh rate 120Hz, dilindungi Corning Gorilla Glass 6, L1 Widevine
+Chipset: Qualcomm Snapdragon 860 (7 nm)
+CPU: Octa-core (1x2.96 GHz Kryo 485 Gold dan 3x2.42 GHz Kryo 485 Gold dan 4x1.78 GHz Kryo 485 Silver)
+GPU: Adreno 640
+OS: Android 11, MIUI 12 for POCO
+RAM: 6GB/8GB
+Memori internal: 128GB/256GB teknologi UFS 3.1
+Ukuran HP: 165.3 x 76.8 x 9.4 mm
+Bobot HP: 215 gram
+Kamera depan: 20 MP, f/2.2, (wide), 1/3.4", 0.8µm
+Kamera utama: 48 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF; 8 MP, f/2.2, 119˚ (ultrawide), 1.0µm; 2 MP, f/2.4, (macro); 2 MP, f/2.4, (depth)
+Video: 4K 30fps, 1080p 30/60/120/240fps, 1080p 960fps, gyro-EIS
+Konektivitas: NFC, IR Blaster
+Baterai: Li-Po 5160 mAh, Fast charging 33W
+Rilis: Maret 2021
+</item>
+        <item>
+            Harga Rp.700.000,-
+            Ukuran HP: 147.5 x 71.5 x 8.3 mm
+Berat HP: 145 gram
+Ukuran layar: 5,45 inci IPS LCD (~72.7% screen-to-body ratio)
+Resolusi layar: 720 x 1440 pixels, 18:9 ratio (~295 ppi density)
+Kamera depan: 5 MP, f/2.2; LED flash, HDR, panorama
+Kamera belakang: 13 MP, f/2.2
+Video: 1080p@30fps
+Chipset: Mediatek MT6761 Helio A22 (12 nm)
+CPU: QuadCcore 2.0 GHz Cortex-A53
+GPU: PowerVR GE8320
+OS: Android 8.1 (Oreo), planned upgrade to Android 10, MIUI 12
+RAM: 2GB/3 GB
+Memori internal: 16 GB/32 GB
+Memori eksternal: microSDXC (dedicated slot) sampai 256 GB
+Baterai: Non-removable Li-Ion 3000 mAh
+WLAN: Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot
+GPS: Yes, with A-GPS, GLONASS, BDS
+Tanggal rilis: September 2018</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/hpxiomi</item>
+        <item>@drawable/hpxiominote8</item>
+        <item>@drawable/hpsamsung</item>
+        <item>@drawable/hppoco</item>
+        <item>@drawable/hppocox</item>
+        <item>@drawable/hp6a</item>
+
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="shoppingcart" translatable="false">ini adalah fragment Pesanan</string>
+    <string name="hello_ini_shopping_cart" translatable="false">Keranjang</string>
+    <string name="makanan_name" />
+    <string name="Order" />
+    <string name="OrderFragment">Order Handphone</string>
+    <string name="handphone_name" />
+    <string name="order" />
+
+
+</resources>
